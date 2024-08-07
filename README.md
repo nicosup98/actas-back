@@ -1,6 +1,9 @@
 # actas-back
-
 una api sencilla que devuelve en json la informacion de las actas a partir del csv generado por la pagina https://resultadosconvzla.com/
+## endpoints
+- /actas?limit&page
+- /actas/search?cod_estado&cod_mun?&cod_par?
+- /lista
 
 ## Installation
 
