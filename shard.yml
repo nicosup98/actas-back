@@ -1,0 +1,17 @@
+name: actas-back
+version: 0.1.0
+
+authors:
+  - nicosup <damiconicola98@gmail.com>
+
+targets:
+  actas-back:
+    main: src/actas-back.cr
+
+crystal: '>= 1.13.1'
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+license: MIT
