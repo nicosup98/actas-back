@@ -1,18 +1,14 @@
 # actas-back
 
-TODO: Write a description here
+una api sencilla que devuelve en json la informacion de las actas a partir del csv generado por la pagina https://resultadosconvzla.com/
 
 ## Installation
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
+shards install
 
 ## Development
 
-TODO: Write development instructions here
+shards run
 
 ## Contributing
 
